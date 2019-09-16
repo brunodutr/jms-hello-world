@@ -1,4 +1,4 @@
-package br.com.bdutra.controller;
+package br.com.bdutra.model;
 
 public class Pessoa {
 

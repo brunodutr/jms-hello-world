@@ -16,7 +16,7 @@ import javax.ws.rs.Produces;
 
 @Produces(APPLICATION_JSON)
 @Path("/jms")
-public class JMSController {
+public class JMS_Controller {
 
 	@Inject
 	@JMSConnectionFactory("java:/jms/ArtemisRemote")
